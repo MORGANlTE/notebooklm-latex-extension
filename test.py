@@ -1,5 +1,7 @@
 # script that downloads link by link as a file and saves it as the last
 
+# This is not used in the extension itself. This is just for future downloads of the links if they ever end up changing latex lmao
+
 Links = [
 "https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/fonts/KaTeX_AMS-Regular.woff",
 "https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/fonts/KaTeX_AMS-Regular.woff2",
