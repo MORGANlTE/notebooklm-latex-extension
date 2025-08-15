@@ -11,6 +11,16 @@ Note: this readme is AI generated 💀
 - Supports both inline and display math.
 - Fast and lightweight, using KaTeX.
 
+## Screenshots
+
+**Before installing the plugin:**
+
+![Before Installing](readme/before.png)
+
+**After installing the plugin and toggling sources:**
+
+![After Installing](readme/after.png)
+
 ## Installation
 
 1. Clone or download this repository.
