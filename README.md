@@ -17,7 +17,7 @@ Note: this readme is AI generated 💀
 
 ![Before Installing](readme/before.png)
 
-**After installing the plugin and toggling sources:**
+**After installing the plugin (fixes the formulas!):**
 
 ![After Installing](readme/after.png)
 
