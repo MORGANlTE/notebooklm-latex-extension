@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Render LaTeX in NotebookLM",
+  "version": "2.1",
+  "description": "A minimal LaTeX display for NotebookLM. Based on ergs0204's extension.",
+  "author": "Morganite based on ergs0204's extension",
+  "content_scripts": [
+    {
+      "matches": ["https://notebooklm.google.com/*"],
+      "css": ["katex.min.css", "custom.css"],
+      "js": ["katex.min.js", "auto-render.min.js", "content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["fonts/*"],
+      "matches": ["https://notebooklm.google.com/*"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

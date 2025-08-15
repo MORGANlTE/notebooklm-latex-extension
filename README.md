@@ -1,0 +1,2 @@
+# notebooklm-latex-extension
+
