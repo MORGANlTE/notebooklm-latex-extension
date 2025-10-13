@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Render LaTeX in NotebookLM",
-  "version": "2.1",
+  "version": "2.2",
   "description": "A minimal LaTeX display for NotebookLM. Based on ergs0204's extension.",
   "author": "Morganite based on ergs0204's extension",
   "content_scripts": [
